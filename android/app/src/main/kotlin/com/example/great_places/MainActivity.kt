@@ -1,4 +1,4 @@
-package com.example.great_places
+package com.cgustav.great_places
 
 import android.os.Bundle
 
